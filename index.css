@@ -1,0 +1,12 @@
+form{
+    background-color: darkblue;
+}  form{
+    border:2px solid black;
+    padding: 40px;
+    width: 40%;
+    margin:auto;
+    background-image: url(../image/bg.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: auto;
+    background-image: linear-gradient(red,rgb(96, 149, 248),blue);
+}
